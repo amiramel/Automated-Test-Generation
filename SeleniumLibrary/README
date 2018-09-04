@@ -1,0 +1,9 @@
+This folder contains the library code.
+I wrote the implementation of the library in C#.
+In addition, I used Selenium - software testing framework for web applications.
+
+The code is executing authentication to login page.
+When the code is running, the username and password fields are sent to the system automatically.
+
+
+
