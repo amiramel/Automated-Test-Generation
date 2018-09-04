@@ -1,0 +1,17 @@
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\MySeleniumWebDriver.dll
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\MySeleniumWebDriver.pdb
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\nunit.framework.dll
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\WebDriver.dll
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\nunit.framework.xml
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\WebDriver.xml
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\obj\Debug\MySeleniumWebDriver.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\obj\Debug\MySeleniumWebDriver.csproj.CopyComplete
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\obj\Debug\MySeleniumWebDriver.dll
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\obj\Debug\MySeleniumWebDriver.pdb
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml

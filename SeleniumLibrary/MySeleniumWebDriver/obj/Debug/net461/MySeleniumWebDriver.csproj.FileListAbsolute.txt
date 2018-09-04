@@ -1,0 +1,3 @@
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\obj\Debug\net461\MySeleniumWebDriver.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\obj\Debug\net461\MySeleniumWebDriver.AssemblyInfoInputs.cache
+c:\users\user\source\repos\SeleniumLibrary\MySeleniumWebDriver\obj\Debug\net461\MySeleniumWebDriver.AssemblyInfo.cs
