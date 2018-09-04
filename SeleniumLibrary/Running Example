@@ -26,7 +26,8 @@ that we want to check:
 
 
 The class that send the values is: 
- public class LoginTestClass : TestBase
+
+  public class LoginTestClass : TestBase
     {
         [Test]
         public void VerifyValidLogin()
@@ -39,6 +40,10 @@ The class that send the values is:
             driver.FindElement(By.Id("iPassword")).SendKeys("amiram123");
             //Click on Login button
             driver.FindElement(By.Id("btnGoLogin")).Click();
+            /*The values that sended will be - Username: amiram
+                                   Password: amiram123
+                                   
+              For this values, the login will succeed.*/
         }
 
         [Test]
@@ -52,6 +57,11 @@ The class that send the values is:
             driver.FindElement(By.Id("iPassword")).SendKeys("test");
             //Click on Login button
             driver.FindElement(By.Id("btnGoLogin")).Click();
+            
+               /*The values that sended will be - Username: test
+                                                  Password: test
+                                   
+              For this values, the login will failed.*/
         }
     }
         
