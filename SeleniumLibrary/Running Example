@@ -1,0 +1,58 @@
+In this example I sent two login values, one is correct and the seconde is wrong.
+The expected result will be that when the values are correct, you enter the system.
+Whwn the values are wrong, we get an error message that the username or the password incorrect.
+
+First of all, we need to define the web app that we want to check. For this issue I create the TestBase class that defined the web app 
+that we want to check: 
+ public class TestBase
+    {
+        public IWebDriver driver;
+
+        [SetUp]
+        public void Setup()
+        {
+            driver = new ChromeDriver(); // Lounches browser
+            driver.Manage().Window.Maximize(); // Maximizes browser
+            
+        }
+
+        [TearDown]
+        public void CleanUp()
+        {
+            driver.Quit();
+        }
+
+    }
+
+
+The class that send the values is: 
+ public class LoginTestClass : TestBase
+    {
+        [Test]
+        public void VerifyValidLogin()
+        {
+            //Open site
+            driver.Url = "http://manage.zapbeta.co.il/web/sites-login.aspx";
+
+            //Enter Username and password
+            driver.FindElement(By.Id("iEmail")).SendKeys("amiram");
+            driver.FindElement(By.Id("iPassword")).SendKeys("amiram123");
+            //Click on Login button
+            driver.FindElement(By.Id("btnGoLogin")).Click();
+        }
+
+        [Test]
+        public void VerifyInvalidLogin()
+        {
+            //Open site
+            driver.Url = "http://manage.zapbeta.co.il/web/sites-login.aspx";
+
+            //Enter wrong Username and password 
+            driver.FindElement(By.Id("iEmail")).SendKeys("test");
+            driver.FindElement(By.Id("iPassword")).SendKeys("test");
+            //Click on Login button
+            driver.FindElement(By.Id("btnGoLogin")).Click();
+        }
+    }
+        
+        
