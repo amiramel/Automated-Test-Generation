@@ -1,0 +1,10 @@
+c:\users\user\source\repos\SeleniumLibrary\TestClassSelenium\bin\Debug\TestClassSelenium.dll
+c:\users\user\source\repos\SeleniumLibrary\TestClassSelenium\bin\Debug\TestClassSelenium.pdb
+c:\users\user\source\repos\SeleniumLibrary\TestClassSelenium\bin\Debug\nunit.framework.dll
+c:\users\user\source\repos\SeleniumLibrary\TestClassSelenium\bin\Debug\WebDriver.dll
+c:\users\user\source\repos\SeleniumLibrary\TestClassSelenium\bin\Debug\nunit.framework.xml
+c:\users\user\source\repos\SeleniumLibrary\TestClassSelenium\bin\Debug\WebDriver.xml
+c:\users\user\source\repos\SeleniumLibrary\TestClassSelenium\obj\Debug\TestClassSelenium.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SeleniumLibrary\TestClassSelenium\obj\Debug\TestClassSelenium.csproj.CopyComplete
+c:\users\user\source\repos\SeleniumLibrary\TestClassSelenium\obj\Debug\TestClassSelenium.dll
+c:\users\user\source\repos\SeleniumLibrary\TestClassSelenium\obj\Debug\TestClassSelenium.pdb
